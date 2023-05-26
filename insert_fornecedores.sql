@@ -1,0 +1,13 @@
+INSERT INTO FORNECEDOR VALUES(1, '123456789011121', 'Verduras LTDA', 'verduras.com.br', 'verduras@gmail.com', '83933333333', 'Rua A', 1, 'Bairro A', 'Cidade A', '58540000');
+INSERT INTO FORNECEDOR VALUES(2, '223344556677881', 'Carnes Ltda', 'carnes.com.br', 'carnes@gmail.com', '83944444444', 'Rua B', 2, 'Bairro B', 'Cidade B', '58541000');
+INSERT INTO FORNECEDOR VALUES(3, '334455667788991', 'Panificadora Pão Quente', 'paoquente.com.br', 'paoquente@gmail.com', '83955555555', 'Rua C', 3, 'Bairro C', 'Cidade C', '58542000');
+INSERT INTO FORNECEDOR VALUES(4, '445566778899012', 'Laticínios Delícia', 'delicia.com.br', 'delicia@gmail.com', '83966666666', 'Rua D', 4, 'Bairro D', 'Cidade D', '58543000');
+INSERT INTO FORNECEDOR VALUES(5, '556677889900123', 'Bebidas Refrescantes', 'refrescantes.com.br', 'refrescantes@gmail.com', '83977777777', 'Rua E', 5, 'Bairro E', 'Cidade E', '58544000');
+INSERT INTO FORNECEDOR VALUES(6, '667788990011234', 'Produtos Limpeza Total', 'limpezatotal.com.br', 'limpezatotal@gmail.com', '83988888888', 'Rua F', 6, 'Bairro F', 'Cidade F', '58545000');
+INSERT INTO FORNECEDOR VALUES(7, '778899001122345', 'Cereais e Grãos S/A', 'cereaisegraos.com.br', 'cereaisegraos@gmail.com', '83999999999', 'Rua G', 7, 'Bairro G', 'Cidade G', '58546000');
+INSERT INTO FORNECEDOR VALUES(8, '889900112233456', 'Doces e Guloseimas', 'doceseguloseimas.com.br', 'doceseguloseimas@gmail.com', '83910101010', 'Rua H', 8, 'Bairro H', 'Cidade H', '58547000');
+INSERT INTO FORNECEDOR VALUES(9, '990011223344567', 'Produtos para Bebês', 'produtosbebes.com.br', 'produtosbebes@gmail.com', '83912121212', 'Rua I', 9, 'Bairro I', 'Cidade I', '58548000');
+INSERT INTO FORNECEDOR VALUES(10, '001122334455678', 'Produtos de Higiene', 'produtoshigiene.com.br', 'produtoshigiene@gmail.com', '83913131313', 'Rua J', 10, 'Bairro J', 'Cidade J', '58549000'); 
+INSERT INTO FORNECEDOR VALUES(11, '112233445566789', 'Cuidados com o Lar', 'cuidadoslar.com.br', 'cuidadoslar@gmail.com', '83914141414', 'Rua K', 11, 'Bairro K', 'Cidade K', '58550000');
+INSERT INTO FORNECEDOR VALUES(12, '223344556677890', 'Cuidados Pessoais', 'cuidadospessoais.com.br', 'cuidadospessoais@gmail.com', '83915151515', 'Rua L', 12, 'Bairro L', 'Cidade L', '58551000');
+INSERT INTO FORNECEDOR VALUES(14, '334455667788901', 'Utensílios Domésticos', 'utensiliosdomesticos.com.br', 'utensiliosdomesticos@gmail.com', '83916161616', 'Rua M', 13, 'Bairro M', 'Cidade M', '58552000');
